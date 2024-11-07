@@ -19,6 +19,6 @@ Feature-Centric Marketing: Promote the high-rated features of iPhone models, lik
 Targeted Pricing Strategies: With pricing as a common concern, consider limited-time offers on models where price affects satisfaction, potentially improving overall ratings and sales.
 Enhanced Customer Engagement: Based on review insights, gathering more feedback on features like storage could guide product positioning for future releases.
 Tools & Technologies:
-Python, Jupyter Notebook, Pandas, NLP for sentiment analysis, Matplotlib, and Seaborn for data visualization.
+Python, Jupyter Notebook, Pandas,Plotly,numpy.
 
 This project highlights my ability to extract actionable insights from customer feedback and ratings data. By using data analytics and visualization, I helped identify key selling points and areas for potential improvement, supporting strategic marketing and product positioning in the competitive Indian market.
